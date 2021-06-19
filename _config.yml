@@ -103,3 +103,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+markdown:
+  plugins:
+    - plugin:
+      name: '@neilsustc/markdown-it-katex'
+      options:
+        strict: false
