@@ -6,7 +6,7 @@
 title: ppunknown's Hovel
 subtitle: Exhibit some personal experience of CS
 description: 'Chaos vs Mass'
-keywords:
+keywords: Computer, Coding, IT, Program
 author: ppunknown
 language: zh-CN
 timezone: Asia/Shanghai
@@ -110,3 +110,32 @@ markdown:
       name: '@neilsustc/markdown-it-katex'
       options:
         strict: false
+
+# douban:
+#   user: 133162615
+#   builtin: true
+#   book:
+#     title: '我的豆瓣'
+#     quote: '个人豆瓣的主页'
+#     meta: true
+#     comments: true
+#     top_img: https://cdn.ppunknown.cn/images/wallpapers/mxd_4.jpg
+#     aside: true
+#     path: books
+#   movie:
+#     title: '个人豆瓣观影记录'
+#     quote: '其实看了其实还蛮多电影，但是一直没有写影评的习惯😂'
+#     meta: true
+#     comments: true
+#     top_img: https://cccccc.png
+#     aside: true
+#     path: movies
+#   game:
+#     title: '游戏'
+#     quote: '豆瓣上关注的游戏'
+#     meta: true
+#     comments: true
+#     top_img: https://cdn.ppunknown.cn/images/wallpapers/705445.jpg
+#     aside: true
+#     path: games
+#   timeout: 10000 
