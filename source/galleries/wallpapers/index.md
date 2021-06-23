@@ -23,6 +23,6 @@ description: 个人收藏的一些4K以上分辨率的动漫壁纸，分享给�
 ![](https://cdn.ppunknown.cn/images/wallpapers/702889.png)
 ![](https://cdn.ppunknown.cn/images/wallpapers/720827.jpg)
 ![](https://cdn.ppunknown.cn/images/wallpapers/677548.jpg)
-![](https://cdn.ppunknown.cn/images/wallpapers/656029.png)
+![](https://cdn.ppunknown.cn/images/wallpapers/648557.jpg)
 ![](https://cdn.ppunknown.cn/images/wallpapers/639792.jpg)
 {% endgallery %}
