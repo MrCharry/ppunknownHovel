@@ -431,7 +431,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text:  <a href="https://beian.miit.gov.cn/">粤ICP备20056393号-2</a>
+  custom_text:  <a href="https://beian.miit.gov.cn/">粤ICP备20056393号</a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -586,9 +586,10 @@ click_heart:
 ClickShowText:
   enable: true
   text:
-    - 彡彡
-    - LOVE
-    - 土土
+    - 葡萄
+    - 妹妹
+    - 诗情
+    - 画意
   fontSize: 15px
   random: true
   mobile: true
